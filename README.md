@@ -1,6 +1,6 @@
 This repository contains the code used to generate the tables and figures for the manuscript published in BMC Women’s Health (2023) titled "The Carolina Hysterectomy Cohort (CHC): A Novel Case Series of Reproductive-Aged Hysterectomy Patients Across 10 Hospitals in the US South."
 
-The dataset captures detailed clinical and demographic information on hysterectomy patients aged 18 to 44 across 10 hospitals between 2014 and 2017 in the US-South, enabling multi-level analysis using electronic medical record.
+The dataset captures detailed clinical and demographic information on hysterectomy patients aged 18 to 44 across 10 hospitals in the US-South between 2014 and 2017, enabling multi-level analysis using electronic medical records.
 
 File Breakdown:
 Job 00 (SAS): Generates the tables and figures published in the manuscript.
