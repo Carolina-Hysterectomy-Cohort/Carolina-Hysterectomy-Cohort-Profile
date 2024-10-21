@@ -1,0 +1,4 @@
+This repository includes the code that created tables and figures published in the manuscript in the 2023 BMC Women’s Health paper, "The Carolina hysterectomy cohort (CHC): a novel case series of reproductive-aged hysterectomy patients across 10 hospitals in the US South".
+Job 00 (SAS) created tables and figures published in the manuscript
+Job 01 shows the ICD-9/10 and CPT codes used to identify patient procedures and diagnoses (Additional material)
+Reference: Haji-Noor ZM, Mathias JG, Beltran TG, Anderson LG, Wood ME, Howard AG, Hinton SP, Doll KM, Robinson WR. The Carolina hysterectomy cohort (CHC): a novel case series of reproductive-aged hysterectomy patients across 10 hospitals in the US south. BMC Womens Health. 2023 Dec 19;23(1):674. doi: 10.1186/s12905-023-02837-8. PMID: 38114962; PMCID: PMC10729499.
